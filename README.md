@@ -90,8 +90,14 @@ The router hacking repo.
 - [Profiteer](https://github.com/GuerrillaWarfare/Profiteer)
 - [TCP-32764](https://github.com/elvanderb/TCP-32764)
 - [sasquatch](https://github.com/devttys0/sasquatch)
+- [bowcaster](https://github.com/zcutlip/bowcaster.git)
+- [nvram-faker](https://github.com/zcutlip/nvram-faker.git)
+- [mips-assembler](https://github.com/kmowery/mips-assembler.git)
 - [littleblackbox](https://github.com/devttys0/littleblackbox)
 - [firmware-mod-kit](https://github.com/mirror/firmware-mod-kit)
+- [broken_abandoned](https://github.com/zcutlip/broken_abandoned.git)
+- [zcutlip/exploit-poc](https://github.com/zcutlip/exploit-poc.git)
+- [zcutlip/exploit-tools](https://github.com/zcutlip/exploit-tools.git)
 
 #Websites:
 - [Routerpwn](http://www.routerpwn.com/)
