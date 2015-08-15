@@ -3,6 +3,9 @@ The router hacking repo.
 
 - [Tweet](https://twitter.com/share)
 
+#Books:
+- [Practical Reverse Engineering](http://pdf.th7.cn/down/files/1411/Practical%20Reverse%20Engineering.pdf)
+
 #Papers:
 - [JTAG Slides](http://www.devttys0.com/wp-content/uploads/2014/04/JTAG_Slides.pdf)
 - [How to hack millions of routers](https://media.blackhat.com/bh-us-10/presentations/Heffner/BlackHat-USA-2010-Heffner-How-to-Hack-Millions-of-Routers-slides.pdf)
@@ -48,6 +51,9 @@ The router hacking repo.
 - [How to Hack Millions of Routers ](https://www.youtube.com/watch?v=FV7SQd-3Ytk)
 - [Owning the Network: Adventures in Router Rootkits](https://www.youtube.com/watch?v=sWdqSG9IydA)
 - [Attacks Against 2wire Residential Gateway Routers](https://www.youtube.com/watch?v=Tx0DivWaDkA)
+
+#Courses:
+- [Reverse Engineering and Exploit Development](https://kat.cr/infiniteskills-reverse-engineering-and-exploit-development-t10513336.html)
 
 #Exploits:
 - [NETGEAR ReadyNAS LAN /dbbroker 6.2.4 - Credential Disclosure(2015)](https://www.exploit-db.com/exploits/37720/)
