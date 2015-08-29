@@ -112,7 +112,6 @@ The router hacking repo.
 - [baudrate](https://github.com/devttys0/baudrate)
 - [libmpsse](https://github.com/devttys0/libmpsse)
 - [asus-cmd](https://github.com/jduck/asus-cmd)
-- [Crippled](https://github.com/GuerrillaWarfare/Crippled)
 - [Profiteer](https://github.com/GuerrillaWarfare/Profiteer)
 - [TCP-32764](https://github.com/elvanderb/TCP-32764)
 - [sasquatch](https://github.com/devttys0/sasquatch)
