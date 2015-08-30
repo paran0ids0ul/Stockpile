@@ -1,8 +1,6 @@
 #Stockpile
 The router hacking repo.
 
-- [Tweet](https://twitter.com/share)
-
 #Books:
 - [Practical Reverse Engineering](http://pdf.th7.cn/down/files/1411/Practical%20Reverse%20Engineering.pdf)
 
@@ -66,6 +64,7 @@ The router hacking repo.
 - [Buffalo (JP)](http://opensource.buffalo.jp/gpl_wireless.html)
 
 #Firmware Images:
+- [GT704WG](http://download.verizon.net/webdownload/firmware/upgrades/ActionTec%20gateway/3.20.3.3.5.0.9.1.5-gt704-wg.img)
 - [MI424WR](https://upgrade.actiontec.com/MI424WR/MI424WR.rmt)
 - [MI424WR2](https://upgrade.actiontec.com/MI424WR2/MI424WR2.rmt)
 - [MI424WR_G](https://upgrade.actiontec.com/MI424WR2/MI424WR_G.rmt)
@@ -112,7 +111,6 @@ The router hacking repo.
 - [baudrate](https://github.com/devttys0/baudrate)
 - [libmpsse](https://github.com/devttys0/libmpsse)
 - [asus-cmd](https://github.com/jduck/asus-cmd)
-- [Profiteer](https://github.com/GuerrillaWarfare/Profiteer)
 - [TCP-32764](https://github.com/elvanderb/TCP-32764)
 - [sasquatch](https://github.com/devttys0/sasquatch)
 - [bowcaster](https://github.com/zcutlip/bowcaster.git)
